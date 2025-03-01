@@ -80,4 +80,23 @@ Use everyday words (start instead of initiate).
 Be direct (update instead of mitigate compatibility issues).
 Keep it conversational (use instead of utilize).
 
+How can using examples and visuals help in explaining complex concepts more clearly?
+Examples make concepts more relatable- connects new information to something familiar.
+Visuals simplify complex information eg diagrams and charts.
+Step-by-step examples improve understanding.
+Videos bring concepts to life.
+Infographics help summarize information.
+
+What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
+Diagrams- best for explaining systems and processes. Best for architecture, workflows,networks, software structures.
+Flow-charts- best for step by step processes eg algorithms, workflows.
+Infographics- best for summarizing key information eg statistics, comparisons.
+Tables- best for comparing data eg feature comparisons, specifications.
+Graphs and charts- best for presenting data trends eg perfomance metrics, analytics
+Mind maps- best for structuring ideas eg brainstorming, concept mapping.
+
+
+
+
+
 
