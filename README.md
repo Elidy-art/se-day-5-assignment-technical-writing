@@ -20,3 +20,11 @@ Adjust the level of detail eg non-techies: High-level concepts with practical ap
 Provide context and real-world examples.
 Engage and adapt based on audience's feedback
 
+How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
+Asking them directly using polls and questionnaires
+Observing their language and questions
+Analyzing their background and role
+Start with basic concepts and gradually increase complexity
+Use interactive approaches eg Q & A sessions
+Encouraging open communication.
+
