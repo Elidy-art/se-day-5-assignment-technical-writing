@@ -20,6 +20,26 @@ Adjust the level of detail eg non-techies: High-level concepts with practical ap
 Provide context and real-world examples.
 Engage and adapt based on audience's feedback
 
+What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
+Use simple, clear language- avoid technical jargon and use short sentences
+Use visual aids and multimedia eg diagrams, charts and screenshots.
+Use analogies and real-world comparisons.
+Break information into digestible chunks.
+Provide context before details.
+Offer different learning paths.
+Encourage interaction and questions
+
+Why is it important to use plain language instead of technical jargon in your writing?
+It improves understanding.
+Increases accessibility.
+Keeps readers engaged.
+Builds trust and credibility.
+Improves communication across teams.
+Enhances SEO and readability
+Encourages action and decision making.
+
+
+
 How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
 Asking them directly using polls and questionnaires
 Observing their language and questions
