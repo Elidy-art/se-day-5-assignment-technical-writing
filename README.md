@@ -95,6 +95,35 @@ Tables- best for comparing data eg feature comparisons, specifications.
 Graphs and charts- best for presenting data trends eg perfomance metrics, analytics
 Mind maps- best for structuring ideas eg brainstorming, concept mapping.
 
+How do headings and subheadings improve the readability and organization of technical documents?
+Provides logical structure and flow by guiding the reader step by step.
+Improves readability and scannability because most readers scan before they read in detail.
+Make the document easier to reference.
+Improves SEO and searchability for online content.
+Enhances accessibility.
+Prevents information overload by breaking large sections into smaller topics.
+
+What are some best practices for creating effective headings and subheadings?
+Use clear and descriptive headings.
+Keep them concise and straight to the point.
+Use a logical hierarchy eg A1, A2, A3- improves navigation and readability.
+Make headings scannable for quick navigation.
+Be consistent in formatting and style.
+Use action-oriented headings for guides and instructions eg How to secure your database from hackers.
+Avoid jargon and keep it reader-friendly.
+
+What should be included in the introduction of a Readme to immediately inform users about what the product does?
+Clear and concise product description.
+Key features in form of bullet points for quick scanning.
+Target audience- who it's for.
+How to get started- quick setup instructions or link.
+Where to find more information- documentation and support links.
+
+How can you succinctly convey the purpose and key features of a product?
+Use a one-sentence value proposition- what the product does and why it matters.
+Highlight key features in bullet points- easy to scan and quick to understand.
+Make it actionablw with a call-to-action.
+Use comparisons or analogy for clarity- help users understand quickly if they are unfamiliar with the product.
 
 
 
